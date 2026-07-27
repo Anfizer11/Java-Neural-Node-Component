@@ -1,1 +1,0 @@
-# Java-Neural-Node-Component
